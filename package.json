@@ -1,0 +1,32 @@
+{
+  "author": "Tom Cully",
+  "name": "mozart-empty",
+  "description": "Empty Mozart Project",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bigcommerce/mozart-empty.git"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/grunt run"
+  },
+  "dependencies": {
+    "handlebars": ">= 0.1.7",
+    "messageformat": ">= 0.1.5",
+    "express": ">= 3.0.5"
+  },
+  "devDependencies": {
+    "grunt": ">= 0.3.17",
+    "coffee-script": ">= 1.4.0",
+    "underscore": ">= 1.4.3",
+    "underscore.string": ">= 2.3.1",
+    "grunt-coffeelint": ">= 0.0.3",
+    "grunt-contrib": ">= 0.3.0",
+    "grunt-browserify": ">= 0.1.2",
+    "grunt-lib-contrib": "0.4.0"
+  }
+}

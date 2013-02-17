@@ -1,0 +1,20 @@
+# NPM
+node_modules
+npm_debug.log
+
+# Built Application 
+public
+
+# Generated Docs
+docs
+
+# SASS
+.sass-cache
+
+# IDE metadata
+.idea
+.project
+.settings
+
+# MacOS X
+.DS_Store
